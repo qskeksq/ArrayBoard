@@ -5,6 +5,7 @@
 - 임시 저장(Runtime Data)
 - Arrays.sort 이용 최고값 리턴
 
+> while문, Scanner 이용, 지속적으로 입력
 
 ```java
 
@@ -53,7 +54,7 @@ private void inputStudentNo() {
 }
 ```
 
->// 성적 입력
+>성적 입력
 
 ```java
 private void inputGrade() {
